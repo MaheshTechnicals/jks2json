@@ -1,8 +1,13 @@
 # 🔐 jks2json
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Bash](https://img.shields.io/badge/Bash-4.0+-green.svg)](https://www.gnu.org/software/bash/)
+[![GitHub Stars](https://img.shields.io/github/stars/MaheshTechnicals/jks2json.svg)](https://github.com/MaheshTechnicals/jks2json)
+[![Android](https://img.shields.io/badge/Android-Development-blue.svg)](https://developer.android.com/)
+
 A sleek, interactive Bash script that automatically detects Android Keystore (`.jks`) files, securely verifies your password, and extracts all vital signing credentials into a clean, organized JSON file. 
 
-Built by **MaheshTechnicals**.
+Built by **[MaheshTechnicals](https://maheshtechnicals.dev)** | [YouTube](https://youtube.com/@MaheshTechnicals) | [Support](https://patreon.com/MaheshTechnicals)
 
 ## 🤔 Why use this?
 Setting up CI/CD pipelines (like GitHub Actions) or backing up Android build credentials can be a hassle. This tool automates the extraction of:
