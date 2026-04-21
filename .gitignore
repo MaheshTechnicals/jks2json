@@ -1,0 +1,4 @@
+# Ignore extracted keystore credentials (CRITICAL SECURITY)
+# OS generated files
+.DS_Store
+Thumbs.db
